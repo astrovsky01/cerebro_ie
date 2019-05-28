@@ -1,0 +1,6 @@
+-
+    image: astrov/cerebro_ie
+    description: |
+         Cerebro, cell report browser, (currently available for macOS and Windows)
+         which allows users to interactively visualize various parts of single cell
+         transcriptomics data without requiring bioinformatic expertise.
